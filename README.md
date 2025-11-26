@@ -1,1 +1,1 @@
-# QuanLySinhVien-VScore
+# QuanLySinhVien-VScode
